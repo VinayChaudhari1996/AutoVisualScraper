@@ -1,7 +1,7 @@
 # AutoVisualScraper
 
 Wait few sec ⏳
-GIF is loading 
+Demo is loading 
 ____
 
 ![image](https://drive.google.com/uc?export=view&id=1kJcEZKdHBk1Qg8sngt_2oSaq5DSRrplf)
